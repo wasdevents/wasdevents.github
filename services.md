@@ -4,8 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-## Conference solutions for technology firms.
-
 WASD Events will guide your firm through the logistics of dynamic event mangement. Whether you're looking to grow a conference for industry experts and peers or hosting privavte client functions, your unique vision will be realized.
 
 ### Meeting Design & Planning
