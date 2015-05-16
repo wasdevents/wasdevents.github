@@ -26,7 +26,7 @@ Extensive familiarity with vendors from a multitude of industries and the experi
 
 Having worked for the highest grossing conference hotels in the world, we possess extensive knowledge with regards to all the facets of room block negotiation. We will ensure that your speakers' and attendees' housing is managed in a way to ensure optimum utilization of your contracted blocks and protection for you from unneccessary attribitionable fees.
 
-### Other Services
+#### Other Services
 
 WASD can assist with many other services associated with your event, including:
 
