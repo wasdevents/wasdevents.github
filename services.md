@@ -8,17 +8,17 @@ permalink: /services/
 
 WASD Events will guide your firm through the logistics of dynamic event mangement. Whether you're looking to grow a conference for industry experts and peers or hosting privavte client functions, your unique vision will be realized.
 
-### Site Selection
+### Meeting Design & Planning
 
-We have direct experience working within venues and deep familiarity with venue contract negotiations, union laws, fees, and deep insights into what makes an event site successful for your specific needs.
+Insights from having worked with over 400 events to date has granted us unique insight into the most up-to-date meeting trends. We will guide you and ensure that your event, of any size, is memorable and exceptional for yourself and your attendees.
 
 ### Conference Management
 
 Complete assistance and availability to aid with sculpting your vision from conception to execution, ranging from site selection, program and content expansion, speaker recruitment and contracting, housing management, registration management, event technology, accounting, and more.
 
-### Meeting Design & Planning
+### Site Selection
 
-Insights from having worked with over 400 events to date has granted us unique insight into the most up-to-date meeting trends. We will guide you and ensure that your event, of any size, is memorable and exceptional for yourself and your attendees.
+We have direct experience working within venues and deep familiarity with venue contract negotiations, union laws, fees, and deep insights into what makes an event site successful for your specific needs.
 
 ### Vendor Selection & Negotiation
 
