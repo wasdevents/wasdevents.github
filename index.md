@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-permalink: /Welcome/
+permalink: /Index/
 ---
 
 ### Home Page Content
