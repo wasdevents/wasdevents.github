@@ -2,4 +2,4 @@
 layout: default
 ---
 
-### Home Page Content
+# Home Page Content
