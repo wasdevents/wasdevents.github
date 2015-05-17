@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-## Coming Soon! Keep Checking Back.
+Coming Soon! Keep Checking Back.
