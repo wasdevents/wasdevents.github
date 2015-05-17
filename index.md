@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Index
-permalink: /home/
+permalink: /index/
 ---
 
 ### Home Page Content
