@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to WASD Events!!
-permalink: /index/
+title: Welcome
+permalink: /Welcome/
 ---
 
 ### Home Page Content
