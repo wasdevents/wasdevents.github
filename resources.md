@@ -4,8 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-```
-Testing distinct block look
-applications?
-what is x
-```
+## Coming Soon! Keep Checking Back.
