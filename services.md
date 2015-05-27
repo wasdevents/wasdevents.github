@@ -35,6 +35,3 @@ WASD can assist with many other services associated with your event, including:
 * Strategic Event Management
 * Accounting & Revenue Management
 * Marketing & Communications
-
-
-Note: DOES NOT DO WEDDINGS.
