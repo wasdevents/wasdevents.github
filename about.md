@@ -12,4 +12,4 @@ Jenn Shaw brings more than eight years of event management experience to WASD Ev
 
 ## Contact Us
 
-[wasdevents@gmail.com](mailto:wasdevents@gmail.com)
+[hello@wasdevents.com](mailto:hello@wasdevents.com)
