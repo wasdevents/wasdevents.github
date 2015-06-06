@@ -16,7 +16,7 @@ Complete assistance and availability to aid with sculpting your vision from conc
 
 ### Site Selection
 
-We have direct experience working within venues and deep familiarity with venue contract negotiations, union laws, fees, and deep insights into what makes an event site successful for your specific needs.
+We have direct experience working within venues and deep familiarity with venue contract negotiations, employee collective bargaining agreements, and insights into what makes an event site successful for your specific needs.
 
 ### Vendor Selection & Negotiation
 
