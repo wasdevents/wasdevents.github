@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Annual Cybersecurity Conference - 2015
+title: Independent Information Security Company
 ---
 
-##### Independent Information Security Company
+##### Annual Cybersecurity Conference - 2015 
 * Market Research
 * Speaker & Client Event Organization
 * Budget & Invoicing 
