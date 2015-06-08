@@ -32,4 +32,4 @@ Experience from having worked with over 400 events to date has granted us deep i
 
 Extensive familiarity with conferences, venues, and vendors from a multitude of industries and the experience to ensure that your event is only serviced and touched by the most proficient in their fields.
 
-Email us now and let's start the conversation.
+Email us today and let's start the conversation.
