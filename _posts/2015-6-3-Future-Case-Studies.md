@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Annual Cybersecurity Conference - 2015
+title: Independent
 ---
 
-#### Annual Cybersecurity Conference - 2015
-##### Independent
+##### Annual Cybersecurity Conference - 2015
 * Speaker & Attendee Housing Management 
