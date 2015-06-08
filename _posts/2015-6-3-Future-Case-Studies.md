@@ -3,23 +3,28 @@ layout: post
 title: Future Case Studies
 ---
 
-Independant - Annual Cybersecurity Conference - 2015
+#### Annual Cybersecurity Conference - 2015
+##### Independant
 * Speaker & Attendee Housing Management 
 
-Independent Information Security Company - Annual Cybersecurity Conference - 2015
+#### Annual Cybersecurity Conference - 2015
+##### Independent Information Security Company
 * Market Research
 * Speaker & Client Event Organization
 * Budget & Invoicing 
 
-University - Specialized Cybersecurity Conference - 2014
+#### Specialized Cybersecurity Conference - 2014
+##### University
 * Program Content Expansion 
 * Speaker Recruitment, including Executive Panel
 * Public Relations, Community Outreach
 
-Crossborder Investment Bank - Education Market Conference - 2014
+#### Education Market Conference - 2013, 2014
+##### Crossborder Investment Bank
 * Experiential Themed Engagement (700 attendees)
 
-Major Accounting and Advisory Services Firm - Multple Annual Conferences - 2013, 2014
+#### Multple Annual Conferences - 2013, 2014
+##### Major Accounting and Advisory Services Firm 
 * Registration Enhancement (450 - 1,100 attendees)
 * On-Site Logistics Management (450 - 1,100 attendees)
 * Exhibitor Management (30+ Unique Exhibitors)
