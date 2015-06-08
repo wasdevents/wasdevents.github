@@ -4,7 +4,7 @@ title: Future Case Studies
 ---
 
 #### Annual Cybersecurity Conference - 2015
-##### Independant
+##### Independent
 * Speaker & Attendee Housing Management 
 
 #### Annual Cybersecurity Conference - 2015
@@ -23,7 +23,7 @@ title: Future Case Studies
 ##### Crossborder Investment Bank
 * Experiential Themed Engagement (700 attendees)
 
-#### Multple Annual Conferences - 2013, 2014
+#### Multiple Annual Conferences - 2013, 2014
 ##### Major Accounting and Advisory Services Firm 
 * Registration Enhancement (450 - 1,100 attendees)
 * On-Site Logistics Management (450 - 1,100 attendees)
