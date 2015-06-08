@@ -7,11 +7,13 @@ title: Future Case Studies
 ##### Independent
 * Speaker & Attendee Housing Management 
 
+
 #### Annual Cybersecurity Conference - 2015
 ##### Independent Information Security Company
 * Market Research
 * Speaker & Client Event Organization
 * Budget & Invoicing 
+
 
 #### Specialized Cybersecurity Conference - 2014
 ##### University
@@ -19,9 +21,11 @@ title: Future Case Studies
 * Speaker Recruitment, including Executive Panel
 * Public Relations, Community Outreach
 
+
 #### Education Market Conference - 2013, 2014
 ##### Crossborder Investment Bank
 * Experiential Themed Engagement (700 attendees)
+
 
 #### Multiple Annual Conferences - 2013, 2014
 ##### Major Accounting and Advisory Services Firm 
