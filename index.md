@@ -11,6 +11,7 @@ Experience from having worked with over 400 events to date has granted us deep i
 ### Pre-Event Planning
 * Meeting Design & Planning
 * Budget Formation & Justification
+* Contract Negotations
 * Site Selection
 * Vendor Selection & Negotiation
 * Housing Management
@@ -32,6 +33,6 @@ Experience from having worked with over 400 events to date has granted us deep i
 
 ## Why WASD Events?
 
-Extensive familiarity with conferences, venues, and vendors from a multitude of industries and the experience to ensure that your event is only serviced and touched by the most proficient in their fields.
+With years of experience we have extensive familiarity with conferences, venues, and vendors from a multitude of industries, and the experience to ensure that your event is only serviced and touched by the most proficient in their fields.
 
 Email us today and let's start the conversation.
