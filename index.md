@@ -16,6 +16,7 @@ Experience from having worked with over 400 events to date has granted us deep i
 * Registration Management
 * Marketing & Communications
 * Event Technology & Mobile Events Apps
+* Operational Risk Assessment & Mitigation Plans
 
 ### Event Execution
 * Strategic Event & Conference Management
